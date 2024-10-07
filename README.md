@@ -54,7 +54,7 @@ running:
 npm start --prefix client
 ```
 
-You are not being assessed on React, and you don't have to update any of the
+You are not being assessed on React; and you don't have to update any of the
 React code; the frontend code is available just so that you can test out the
 behavior of your API in a realistic setting.
 
